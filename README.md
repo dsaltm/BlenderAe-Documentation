@@ -1,9 +1,9 @@
-# BlenderAE - Blender to After Effects Data Transfer
+# BlenderAe Documentation
 
-## Description
-What does Blender_Ae do?
-Blender_Ae transfers selected object and scene data from Blender to After Effects. 
+## What is BlenderAe?
+BlenderAe is a Blender addon that enables bidirectional data transfer between Blender and After Effects. Connect, select and export data from Blender to After Effects, or import layers from After Effects to Blender!
 
+## What data does BlenderAe currently support?
 Currently supported data includes:
 
 1. Cameras.
