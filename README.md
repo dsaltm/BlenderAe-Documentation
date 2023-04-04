@@ -27,9 +27,9 @@ Edit Mode:
 1. Selected vertices locations converted to Nulls.
 2. Selected planar faces converted to precomposed shape layers.
 
-Pose Mode:
+<!-- Pose Mode:
 
-1. Selected bones (heads and tails) converted to Nulls.
+1. Selected bones (heads and tails) converted to Nulls. -->
 
 ### From After Effects to Blender
 
