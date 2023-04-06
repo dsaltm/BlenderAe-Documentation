@@ -1,10 +1,10 @@
 # BlenderAe Documentation (version 1.3.4)
 
-BlenderAe is available here:
-<https://aescripts.com/blenderae/>
-<https://blendermarket.com/products/blenderae>
+Purchase on aescripts.com: <https://aescripts.com/blenderae/>
 
-[For video tutorials click here](https://www.youtube.com/playlist?list=PL1c22fXzadmmcuGD6p-rCM_YXmwa21t7M)
+Purchase on Blender Market: <https://blendermarket.com/products/blenderae>
+
+[Click here for video tutorials](https://www.youtube.com/playlist?list=PL1c22fXzadmmcuGD6p-rCM_YXmwa21t7M)
 
 ## What is BlenderAe?
 
